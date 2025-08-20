@@ -80,7 +80,11 @@ export const navigation = [
   //   title: "Vagas",
   //   url: "#Vagas",
   // },
-
+    // {
+  //   id: "4",
+  //   title: "Vagas",
+  //   url: "#Vagas",
+  // },
 ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
